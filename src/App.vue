@@ -21,7 +21,7 @@
                         <img src="https://brandemia.org/sites/default/files/inline/images/bnb_logo_portada.jpg" alt="">
                         <div class="hover-galeria-green">
                             <img src="img/icono1.png" alt="">
-                            <a href="l_green.html">BNBB</a>
+                            <a href="l_green.html">BNB</a>
                         </div>
                     </div>
         
