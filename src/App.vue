@@ -1,7 +1,7 @@
 <template>
   <section class="portafolio">
             <div class="contenedor">
-                <h2 class="titulo">INSTITUCIONES </h2>
+                <h2 class="titulo" style="font-weigth=50% "> INSTITUCIONES </h2>
                 <div class="galeria-port">
                     <div class="imagen-port">
                         <img src="https://www.bcp.com.bo/BilleteraMovil/Images/LogoBCP4.png" alt="">
